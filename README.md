@@ -26,7 +26,7 @@ Link: [Exercício 2030. Smallest K-Length Subsequence With Occurrences of a Lett
 
 ![ScreenShot](imgs/Screenshot2.jpeg)_ScreenShot2_
 
-## [Clique aqui para ver a apresentação]("link")
+## [Clique aqui para ver a apresentação](https://youtu.be/J1sCPfsVsQc)
 
 ## Instalação 
 **Linguagem**: Python<br>
