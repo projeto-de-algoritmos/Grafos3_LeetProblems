@@ -17,14 +17,14 @@ Este repositório contém a resolução de dois exercícios do [LeetCode](https:
 Dificuldade: **Hard <br>**
 Link: [Exercício 1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 
-![ScreenShot](Screenshots/Screenshot1.jpeg)_ScreenShot1_
+![ScreenShot](imgs/Screenshot1.jpeg)_ScreenShot1_
 
 ## Exercício 2030. Smallest K-Length Subsequence With Occurrences of a Letter
 
 Dificuldade: **Hard <br>**
 Link: [Exercício 2030. Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)
 
-![ScreenShot](Screenshots/Screenshot2.jpeg)_ScreenShot2_
+![ScreenShot](imgs/Screenshot2.jpeg)_ScreenShot2_
 
 ## [Clique aqui para ver a apresentação]("link")
 
